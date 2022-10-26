@@ -1,9 +1,9 @@
 # validasenha-JavaScript
-Autenticação de login senha feito com JavaScript 
-
-![Captura de Tela (25)](https://user-images.githubusercontent.com/88294921/197897438-0b63d563-3c1f-4647-861c-bf4ce8c9e8b2.png)
->>> 
-![Captura de Tela (27)](https://user-images.githubusercontent.com/88294921/197897581-2e15ade1-e49d-424f-abe0-b1de1c3133aa.png)
->>>
+# Autenticação de login senha feito com JavaScript. 
 Pretendo melhorar muito a interface, porém esse simples projeto foi feito para testar conhecimentos já abordado de JavaScript. 
-![Captura de Tela (29)](https://user-images.githubusercontent.com/88294921/197897826-6d6c61f2-d817-4e18-94d1-6b2c7ce17016.png)
+>>>
+![Captura de Tela (36)](https://user-images.githubusercontent.com/88294921/198151011-51354275-ed75-443c-a60b-bbdfaacd722a.png)
+>>> 
+![Captura de Tela (35)](https://user-images.githubusercontent.com/88294921/198151044-7506d71e-1220-4e64-91da-24033eecffd4.png)
+>>>
+![Captura de Tela (34)](https://user-images.githubusercontent.com/88294921/198151063-02d9e83b-2052-4e63-a856-1410ff8cef73.png)
